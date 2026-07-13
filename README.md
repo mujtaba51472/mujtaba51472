@@ -55,17 +55,20 @@ Passionate about building modern, scalable, and high-performance web application
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=mujtaba51472&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
-  />
+<div align="center">
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtaba51472&layout=compact&theme=tokyonight&cache_seconds=1800"
-  />
-</p>
+<img src="https://github-stats-extended.vercel.app/api?username=mujtaba51472show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mujtaba51472layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=mujtaba51472theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mujtaba51472theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+</div>
 
 ---
 
